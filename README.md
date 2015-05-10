@@ -11,3 +11,5 @@ let's begin Chinese!
 新问题：为什么这个reponsitory会崩？还好我机智复制了下来，崩了几次了！是我用了中文吗？还是网络问题。
 为什么在保存后的界面里没有换行？看着好长啊，这样别人还会有欲望看嘛？
 ...... 又崩了
+OK，after many attempts ,i succeed in forking a reponsitory.
+fork just like copy,you copy someone else's responsitory in your own responsitory,then,you can do what you want do to it,this is my view.
